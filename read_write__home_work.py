@@ -4,6 +4,7 @@ import os
 
 CSV_FILE_PATH = os.path.join(os.path.dirname(__file__), 'examples', 'books.csv')
 JSON_FILE_PATH = os.path.join(os.path.dirname(__file__), 'examples', 'users.json')
+RESULT_JSON_FILE_PATH = os.path.join(os.path.dirname(__file__), 'result.json')
 
 # read books data from CSV
 books = []
@@ -25,7 +26,3 @@ for i, user in enumerate(users):
 # write result to JSON file
 with open("result.json", "w") as jsonfile:
     json.dump(users, jsonfile, indent=4)
-
-
-
-
