@@ -44,6 +44,7 @@ for i, user in enumerate(users):
     user.pop("friends", None)
     user.pop("greeting", None)
     user.pop("favoriteFruit", None)
+    user.pop("eyeColor", None)
 
 # write result to JSON file
 with open("result.json", "w") as jsonfile:

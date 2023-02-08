@@ -1,7 +1,6 @@
 [
     {
         "age": 34,
-        "eyeColor": "brown",
         "name": "Lolita Lynn",
         "gender": "female",
         "address": "389 Neptune Avenue, Belfair, Iowa, 6116",
@@ -52,7 +51,6 @@
     },
     {
         "age": 31,
-        "eyeColor": "brown",
         "name": "Tonia Hurst",
         "gender": "female",
         "address": "917 Terrace Place, Urbana, Idaho, 684",
@@ -109,7 +107,6 @@
     },
     {
         "age": 39,
-        "eyeColor": "green",
         "name": "Brooks Bright",
         "gender": "male",
         "address": "901 Mermaid Avenue, Wyoming, Marshall Islands, 8506",
@@ -160,7 +157,6 @@
     },
     {
         "age": 40,
-        "eyeColor": "brown",
         "name": "Kathrine Sharp",
         "gender": "female",
         "address": "989 Huron Street, Talpa, Utah, 7018",
@@ -217,7 +213,6 @@
     },
     {
         "age": 34,
-        "eyeColor": "brown",
         "name": "Shawn Harrell",
         "gender": "female",
         "address": "534 Hinsdale Street, Albany, Palau, 3291",
@@ -268,7 +263,6 @@
     },
     {
         "age": 31,
-        "eyeColor": "blue",
         "name": "Amy Casey",
         "gender": "female",
         "address": "589 Townsend Street, Hiseville, Connecticut, 7082",
@@ -325,7 +319,6 @@
     },
     {
         "age": 24,
-        "eyeColor": "blue",
         "name": "Lorena Mejia",
         "gender": "female",
         "address": "614 High Street, Blanford, Maryland, 2776",
@@ -376,7 +369,6 @@
     },
     {
         "age": 29,
-        "eyeColor": "blue",
         "name": "Allyson Wilkins",
         "gender": "female",
         "address": "572 Downing Street, Ivanhoe, American Samoa, 8235",
@@ -433,7 +425,6 @@
     },
     {
         "age": 38,
-        "eyeColor": "brown",
         "name": "Mays Reed",
         "gender": "male",
         "address": "306 Georgia Avenue, Hall, New Mexico, 1402",
@@ -484,7 +475,6 @@
     },
     {
         "age": 27,
-        "eyeColor": "green",
         "name": "Katherine Mayer",
         "gender": "female",
         "address": "640 Prescott Place, Curtice, Kansas, 3395",
@@ -541,7 +531,6 @@
     },
     {
         "age": 35,
-        "eyeColor": "brown",
         "name": "Kelly Byers",
         "gender": "female",
         "address": "865 Revere Place, Homeland, Arizona, 232",
@@ -592,7 +581,6 @@
     },
     {
         "age": 32,
-        "eyeColor": "blue",
         "name": "Schwartz Carey",
         "gender": "male",
         "address": "860 Centre Street, Hiwasse, Nevada, 2819",
@@ -649,7 +637,6 @@
     },
     {
         "age": 34,
-        "eyeColor": "blue",
         "name": "Kay Beasley",
         "gender": "female",
         "address": "358 Sutton Street, Bellamy, Ohio, 8845",
@@ -700,7 +687,6 @@
     },
     {
         "age": 23,
-        "eyeColor": "brown",
         "name": "Robbins Gordon",
         "gender": "male",
         "address": "610 Langham Street, Boykin, Guam, 6688",
@@ -757,7 +743,6 @@
     },
     {
         "age": 39,
-        "eyeColor": "blue",
         "name": "Hillary Bauer",
         "gender": "female",
         "address": "951 Cumberland Street, Alleghenyville, Oregon, 7073",
@@ -814,7 +799,6 @@
     },
     {
         "age": 36,
-        "eyeColor": "brown",
         "name": "Ruiz Phelps",
         "gender": "male",
         "address": "836 Troutman Street, Harborton, Kentucky, 4030",
@@ -865,7 +849,6 @@
     },
     {
         "age": 31,
-        "eyeColor": "green",
         "name": "Carolina Bryant",
         "gender": "female",
         "address": "377 Middagh Street, Ellerslie, Nebraska, 2644",
@@ -922,7 +905,6 @@
     },
     {
         "age": 31,
-        "eyeColor": "blue",
         "name": "Sosa Lee",
         "gender": "male",
         "address": "364 Holly Street, Omar, California, 5140",
@@ -973,7 +955,6 @@
     },
     {
         "age": 24,
-        "eyeColor": "brown",
         "name": "Lorna Scott",
         "gender": "female",
         "address": "878 Marconi Place, Gerton, Alabama, 845",
@@ -1030,7 +1011,6 @@
     },
     {
         "age": 32,
-        "eyeColor": "brown",
         "name": "Bernard Holden",
         "gender": "male",
         "address": "674 Pine Street, Conestoga, Mississippi, 4727",
@@ -1081,7 +1061,6 @@
     },
     {
         "age": 31,
-        "eyeColor": "blue",
         "name": "Craft Shields",
         "gender": "male",
         "address": "586 Java Street, Catherine, Arkansas, 1445",
@@ -1138,7 +1117,6 @@
     },
     {
         "age": 23,
-        "eyeColor": "blue",
         "name": "Mara English",
         "gender": "female",
         "address": "324 Herkimer Court, Boomer, Delaware, 5367",
@@ -1189,7 +1167,6 @@
     },
     {
         "age": 30,
-        "eyeColor": "brown",
         "name": "Fisher Levy",
         "gender": "male",
         "address": "540 Adler Place, Hachita, Federated States Of Micronesia, 9894",
@@ -1246,7 +1223,6 @@
     },
     {
         "age": 25,
-        "eyeColor": "blue",
         "name": "Cecelia Snyder",
         "gender": "female",
         "address": "236 Anchorage Place, Odessa, Michigan, 6314",
@@ -1297,7 +1273,6 @@
     },
     {
         "age": 22,
-        "eyeColor": "blue",
         "name": "Nina Kaufman",
         "gender": "female",
         "address": "538 Ashford Street, Boling, West Virginia, 7840",
@@ -1354,7 +1329,6 @@
     },
     {
         "age": 37,
-        "eyeColor": "blue",
         "name": "Dillard Branch",
         "gender": "male",
         "address": "225 Hampton Avenue, Bethany, Pennsylvania, 8056",
@@ -1405,7 +1379,6 @@
     },
     {
         "age": 33,
-        "eyeColor": "blue",
         "name": "Dyer Bartlett",
         "gender": "male",
         "address": "880 Meadow Street, Seymour, Puerto Rico, 7921",
@@ -1462,7 +1435,6 @@
     },
     {
         "age": 20,
-        "eyeColor": "brown",
         "name": "Tyler Dotson",
         "gender": "male",
         "address": "220 Herkimer Place, Turpin, Oklahoma, 4468",
