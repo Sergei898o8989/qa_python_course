@@ -46,6 +46,8 @@ for i, user in enumerate(users):
     user.pop("favoriteFruit", None)
     user.pop("eyeColor", None)
 
+    user["books"] = books[i * num_books // num_users:(i + 1) * num_books // num_users]
+
 # write result to JSON file
 with open("result.json", "w") as jsonfile:
     json.dump(users, jsonfile, indent=4)
